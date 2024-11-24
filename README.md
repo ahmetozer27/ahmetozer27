@@ -3,7 +3,6 @@
 
 ## {Ahmet Özer} 😎
 
-### What I Know
 - **Programming Languages**:  
   - **C** (Basic): Understanding syntax and basic programming concepts and testing math simulations
   - **C#**: Experience with object-oriented programming, .NET framework, SQL and Windows Forms  
