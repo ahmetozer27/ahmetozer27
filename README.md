@@ -33,7 +33,7 @@
 - 🔭 I’m currently working on mobile development.
 - 🤔 I'm looking for help learning English and cyber security... (My Level B1)
 - 💬 Ask me about whatever you want
-- 📫 How to reach me: ahmetozeratu@gmail.com or ahmet27_3673(Discord)
+- 📫 How to reach me: ahmetozeratu@gmail.com or ahmet27_3673(Discord) (https://www.discord.com)
 - ⚡ Fun fact: Chess♟️ Music🎶 Films🎥 AnimeGirls (just kidding😅) Games🎮
 - 🤖 Built a personal voice assistant to automate tasks and make life easier (and maybe take over the world! 🤫).
 
