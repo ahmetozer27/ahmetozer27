@@ -1,7 +1,7 @@
 
 ---
 
-## Hi, I'm {Ahmet Özer} 😎
+## {Ahmet Özer} 😎
 
 ### What I Know
 - **Programming Languages**:  
