@@ -26,7 +26,7 @@
   - **Web Development**: Building APIs and web scraping tools (Python, Flask, WebSocket)  
   - **Mobile Development**: Flutter for building responsive cross-platform apps   
 
-- 🌱 Currently learning Html, Css, and JS.
+- 🌱 Currently learning 'Html, Css, and JS', 'GO'.
 - 💻 Passionate about algorithms and system optimization.
 - 🚀 Open to collaborating on innovative projects.
 - 🔭 I’m currently working on mobile development.
