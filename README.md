@@ -43,8 +43,9 @@
  
 ![snake gif](https://github.com/ahmetozer27/ahmetozer27/blob/output/github-snake-dark.svg)
 
+
 <div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=ahmetozer27&icon=10&color=6)](https://visitcount.itsvg.in)
+
   ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=ahmetozer27)
+  
 </div>
