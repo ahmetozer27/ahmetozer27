@@ -39,8 +39,8 @@
 
  𝟏 𝟏 𝟎 𝟏 𝟏 
  ---
- <div align="center">
-![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=ahmetozer27)
+<div align="center">
+  ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=ahmetozer27)
 </div>
  
 ![snake gif](https://github.com/ahmetozer27/ahmetozer27/blob/output/github-snake-dark.svg)
