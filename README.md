@@ -37,6 +37,9 @@
 - 🤖 Built a personal voice assistant to automate tasks and make life easier (and maybe take over the world! 🤫).
 
 
-
  𝟏 𝟏 𝟎 𝟏 𝟏 
  ---
+
+
+ 
+![snake gif](https://github.com/ahmetozer27/ahmetozer27/blob/output/github-snake-dark.svg)
