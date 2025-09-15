@@ -45,5 +45,7 @@
 
 <div align="center">
   
+  [![](https://visitcount.itsvg.in/api?id=ahmetozer27&icon=0&color=0)](https://visitcount.itsvg.in)
+
   ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=ahmetozer27)
 </div>
